@@ -10,7 +10,7 @@
         echo ("Hello");
         ?>
         <div>
-            <img src="myPic.jpg" alt="myPic" />
+            <img src="https://images.wallpapersden.com/image/download/bleach-art-kurosaki-ichigo_a21laJSZmpqtpaSklGdqa2WtZmpsaA.jpg" alt="myPic" />
         </div>
     </body>
 </html>
