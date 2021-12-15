@@ -1,3 +1,3 @@
 <?php
-echo "kallan is a stud
+echo "kallan is a stud";
 ?>
